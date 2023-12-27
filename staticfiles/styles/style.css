@@ -226,7 +226,7 @@ table {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    color: #FFFFFF;
+    color: black;
     margin-top: 0.5rem;
 }
 
@@ -327,7 +327,7 @@ table {
     background: transparent;
 }
 
-.principal {
+.principal-1 {
     display: flex;
     justify-content: space-between;
 }
